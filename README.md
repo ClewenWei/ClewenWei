@@ -2,8 +2,6 @@
 
 # Clewen Wei
 
-![1f906f70-1216-4fd6-b4e8-e83410dd86ff.jpg](https://storage.live.com/items/F425EEE61283C18B!11529?authkey=APIO3Aaj9wc6bT8)
-
 - 👋 Hi, I’m @ClewenWei,
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
